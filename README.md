@@ -65,7 +65,7 @@ python main.py
 
 ```text
 Pergunte alguma coisa: O que é um buraco negro?
-Resposta: Um buraco negro é uma região do espaço-tempo com um campo gravitacional tão intenso que nada — nem mesmo a luz — pode escapar dela.
+Resposta: Um buraco negro é um objeto astronômico denso e massivo cujo intenso campo gravitacional impede qualquer coisa de escapar, nem mesmo a luz. Ele é formado pela deformação do espaço-tempo causada por uma massa suficientemente compacta, e possui um horizonte de eventos, que é o limite a partir do qual nada pode escapar. O buraco negro é caracterizado por sua capacidade de absorver tudo o que está ao seu redor, incluindo luz, e é classificado de acordo com sua massa e tamanho.
 
         Fontes:
         - https://pt.wikipedia.org/wiki/Buraco_negro
