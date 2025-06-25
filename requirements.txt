@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+chromadb
+beautifulsoup4
+python-dotenv
